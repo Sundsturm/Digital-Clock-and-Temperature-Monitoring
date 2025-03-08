@@ -7,3 +7,4 @@ LED and button is also connected with 220 Ohms/1 kOhms resistor.
 
 The model of the 7-segments is F4CO5UYOwB/A7/S758, a common-cathode 7-segments with an orange colour. 7-segments has four digits and every digit is represented with PINX, where X is 1, 2, 3, or 4. Additionally, the digit is connected to the ground with a 220 Ohms/1 kOhms resistor. 7-segments has also Dot pins and each Dot pin is connected with resistors. Here's the pinout.
 ![7-Segments](7seg-pinout.jpg "7-Segments Pinout")
+(The 7-segments used is from the ones that were sold by Easyware Electronics)
